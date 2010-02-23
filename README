@@ -1,0 +1,19 @@
+WiseWin
+http://github.com/diogobaeder/WiseWin
+
+Window persistence management web library;
+Configure multiple windows for desktop-like management,
+including tray and position/size management, persisting
+the configuration alongside user navigation.
+
+It is based on jQuery, jQueryUI (for fancy dialog boxes)
+and EasyData (my data persistence management library).
+
+You may use and change this library as much as you wish,
+provided you follow one of the license terms mentioned below.
+
+Author: Diogo Baeder
+Personal website: http://diogobaeder.com.br
+Released under the following licenses:
+MIT (http://en.wikipedia.org/wiki/MIT_License#License_terms)
+GPLv3 (http://en.wikipedia.org/wiki/GNU_General_Public_License#Version_3)
